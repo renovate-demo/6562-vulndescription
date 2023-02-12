@@ -1,2 +1,2 @@
 [dependencies]
-nanorand = "0.4.4"
+nanorand = "0.6.1"
